@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a DevOps engineer based in Germany. Working mostly on monitoring, automation and security on AWS. 
+I am a DevOps engineer based in Germany. Working mostly on monitoring, automation and security on AWS. Most of the time I code in TypeScript or Python, but I also like Java!
 
 - 🔭 I’m currently working on [AWS CDK](https://github.com/aws/aws-cdk) related projects with focus on DevOps
 - 🌱 I’m currently learning [Quarkus](https://quarkus.io/) and event-driven architectures
