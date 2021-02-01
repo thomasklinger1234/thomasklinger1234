@@ -1,4 +1,12 @@
+<img  src="https://github-readme-stats.vercel.app/api?username=thomasklinger1234&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
+
 ### Hi there 👋
+
+I am a DevOps engineer based in Germany. Working mostly on monitoring, automation and security on AWS. 
+
+- 🔭 I’m currently working on [AWS CDK](https://github.com/aws/aws-cdk) related projects with focus on DevOps
+- 🌱 I’m currently learning [Quarkus](https://quarkus.io/) and event-driven architectures
+- 💬 Ask me about cloud, monitoring and alerting
 
 <!--
 **thomasklinger1234/thomasklinger1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
