@@ -5,7 +5,7 @@
 I am a DevOps engineer based in Germany. Working mostly on monitoring, automation and security on AWS. Most of the time I code in Go, Python and Java!
 
 - 🔭 I’m currently working on [AWS CDK](https://github.com/aws/aws-cdk) related projects with focus on DevOps
-- 🌱 I’m currently learning *product management*
+- 🌱 I’m currently learning *product management* and some Kotlin
 - 💬 Ask me about cloud, monitoring and alerting, the ELK stack and safe deployment techniques
 
 <!--
