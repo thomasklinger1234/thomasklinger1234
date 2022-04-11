@@ -1,4 +1,5 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=thomasklinger1234&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
+<a href="https://www.linkedin.com/in/thomas-klinger-857668157/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### Hi there 👋
 
