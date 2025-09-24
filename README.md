@@ -3,10 +3,9 @@
 
 ### Hi there 👋
 
-I am a DevOps engineer based in Germany. Working mostly on monitoring, automation and security on AWS. Most of the time I code in Go, Python and Java!
+I am a DevOps engineer based in Germany. Working mostly on edge systems (Varnish, HAProxy, WAF) and supporting software. Most of the time I code in Go, Python and Rust!
 
-- 🔭 I’m currently working on [AWS CDK](https://github.com/aws/aws-cdk) related projects with focus on DevOps
-- 🌱 I’m currently learning *product management* and some Kotlin
+- 🔭 I’m currently working on [Varnish](https://varnish-cache.com) related projects
 - 💬 Ask me about cloud, monitoring and alerting, the ELK stack and safe deployment techniques
 
 <!--
