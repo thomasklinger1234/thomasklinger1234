@@ -6,7 +6,6 @@
 I am a DevOps engineer based in Germany. Working mostly on edge systems (Varnish, HAProxy, WAF) and supporting software. Most of the time I code in Go, Python and Rust!
 
 - 🔭 I’m currently working on [Varnish](https://varnish-cache.com) related projects
-- 💬 Ask me about cloud, monitoring and alerting, the ELK stack and safe deployment techniques
 
 <!--
 **thomasklinger1234/thomasklinger1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
